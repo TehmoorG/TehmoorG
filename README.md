@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 
-
+🎓 University GitHub: [acse-tg1523](https://github.com/acse-tg1523)<br>
 🌏 Lives in London, UK<br>
 👨‍💻 Pursuing MSc. Applied Computational Science and Engineering @ Imperial College London<br>
 <img align="right" alt="cute-gif" width="200" style="border-radius: 10px;" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif">
@@ -19,7 +19,11 @@
 🎧 Listening: Till I Collapse - Eminem<br>
 👓 Watching: Hunter x Hunter,<br>
 🏸 Hobbies: Muay Thai & Chess (Lets connect & play!)<br>
-<br><br><br>
+<br><br>
+
+### 📚 My Notion Notes
+
+Here are the notes that i've created for my start in [Machine Learning](https://diligent-conifer-077.notion.site/e2a3f5128ff045588382f024ca5a537f?v=5454542adcf8407fad4de0bb7255b2d1&pvs=4)
 
 </div>
 
