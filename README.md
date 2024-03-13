@@ -21,12 +21,6 @@
 🏸 Hobbies: Muay Thai & Chess (Lets connect & play!)<br>
 <br><br>
 
-### 📚 My Notion Notes
-
-Here are the notes that i've created for my start in [Machine Learning](https://diligent-conifer-077.notion.site/e2a3f5128ff045588382f024ca5a537f?v=5454542adcf8407fad4de0bb7255b2d1&pvs=4)
-
-</div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tehmoor-gull)
@@ -35,6 +29,11 @@ Here are the notes that i've created for my start in [Machine Learning](https://
 
 </div>
 
+### 📚 My Notion Notes
+
+Here are the notes that i've created for my start in [Machine Learning](https://diligent-conifer-077.notion.site/e2a3f5128ff045588382f024ca5a537f?v=5454542adcf8407fad4de0bb7255b2d1&pvs=4)
+
+</div>
 
 # 💻 Tech Stack:
 
