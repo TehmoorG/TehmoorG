@@ -15,9 +15,7 @@
 <img align="right" alt="cute-gif" width="200" style="border-radius: 10px;" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif">
 🎓 Graduated BEng. Aerospace Engineering (1st Class Honours) from Queen Mary, University of London<br>
 🧠 Learning: Advanced programming, Machine learning,<br>
-📖 Reading: The Art of War - Sun Tzu<br>
-🎧 Listening: Till I Collapse - Eminem<br>
-👓 Watching: Hunter x Hunter,<br>
+📖 Reading: The Fault in our stars<br>
 🏸 Hobbies: Muay Thai & Chess (Lets connect & play!)<br>
 <br><br>
 
